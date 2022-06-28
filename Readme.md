@@ -1,0 +1,3 @@
+Generated with Ukelele. I had to install with Ukelele too, but there's probably a correct way to install...
+
+Last tested on Monterey
